@@ -1,3 +1,3 @@
 # dhyuthi
 
-This project has been hosted at https://cypherix.github.io/dhyuthi/
+This project has been hosted at https://krxat.github.io/dhyuthi/
